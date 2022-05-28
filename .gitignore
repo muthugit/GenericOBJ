@@ -1,0 +1,3 @@
+build/*
+dist/*
+generic_obj.egg*
