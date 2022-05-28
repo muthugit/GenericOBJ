@@ -1,7 +1,7 @@
 import setuptools
 from setuptools import find_packages
 
-build_version = "0.0.1"
+build_version = "1.0.0"
 
 if __name__ == "__main__":
     with open("README.md", "r") as fh:
